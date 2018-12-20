@@ -1,0 +1,66 @@
+.form {
+    padding: 12px 20px;
+    box-sizing: border-box;
+    margin-left: 40px;
+    font-size:20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+input {
+	background-color: #dddddd;
+	font-size:18px;
+	display: block;
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-radius: 10px;
+	 outline: none;
+
+}
+
+.btn{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 6px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size:15px;
+    outline: none;
+
+}
+
+.btn-reset {
+	margin-top:-15px;
+	border-style: none;
+	outline: none;
+	cursor: pointer;
+	background:none;
+	margin-top: -47px;
+	margin-left: 95px;
+}
+
+.input {
+	border: 3px solid #555;
+}
+
+
+#all-user{
+
+	min-width: 700px;
+	background-color: #f1f1f1eb;
+	height: 85.6%;
+}
+
+.notification div {
+	display: inline-block;
+}
